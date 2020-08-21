@@ -1,4 +1,4 @@
-module github.com/accaolei/hello
+module github.com/accaolei/hello/v2
 
 go 1.13
 
